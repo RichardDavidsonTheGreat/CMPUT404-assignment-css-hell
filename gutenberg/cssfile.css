@@ -1,0 +1,27 @@
+ /*Colors from https://encycolorpedia.com/dab64d */ 
+
+/* font-family and font-style from http://www.java2s.com/Code/HTMLCSS/CSS/fontfamilyTimesNewRoman.html */
+p {background-color:#e7cf8a; font-family:cursive}
+
+/* https://stackoverflow.com/questions/7539125/can-i-target-all-h-tags-with-a-single-selector how to alter all h tags in one css line*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {background-color:#dab64d; font-style: italic !important; font-family: Times New Roman;
+}
+
+body{background-color:#f7eed7;}
+
+/*https://www.w3schools.com/css/css3_images.asp for information on how to create borders and format them for an image as well as how to use borders to round an image*/
+img {
+    border-radius: 5%;
+    border: 5px solid gold;
+}
+
+
+caption{
+    font-style: italic;
+    font-size: 1em;
+}
