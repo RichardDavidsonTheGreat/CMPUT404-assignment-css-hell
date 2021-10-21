@@ -28,6 +28,7 @@ In that file I made it so that any headers would have their color changed to a d
 that their font would be italic and they would be of font Times New Roman. I also changed it so that paragraphs have a background-color that is a darkish yellow (the second darkest yellow I use in this part) I also made it so that their font is cursive. I also changed the background color to light yellow to make it more astetically pleasing.
 Finally I added a solid gold (though it looks yellow) border to any images and made them more circular. I also formatted any captions (ie image captions) so that they will be in italics and of size 1em (m).
 
+
 On top of citing them in the code when applicable here are the various sources I used and give credit to:
 Colors from https://encycolorpedia.com/dab64d in general and https://encycolorpedia.com/0099ff for my custom light blue
 font-family and font-style from http://www.java2s.com/Code/HTMLCSS/CSS/fontfamilyTimesNewRoman.html
