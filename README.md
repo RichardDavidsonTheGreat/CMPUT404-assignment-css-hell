@@ -22,9 +22,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 Richard Davidson, 2021
 
-What I changed in part 1: I had to add the following line in the .html files to specify that they should be looking for additional style properties in cssfile.css <link href="cssfile.css" rel="stylesheet">
-
-<link href="cssfile.css" rel="stylesheet">
+What I changed in part 1: I had to add the following line in the .html files to specify that they should be looking for additional style properties in cssfile.css <link href="cssfile.css" rel="stylesheet" >
 
 In that file I made it so that any headers would have their color changed to a dark yellowish color (the darkest of the yellows I used for this part)
 that their font would be italic and they would be of font Times New Roman. I also changed it so that paragraphs have a background-color that is a darkish yellow (the second darkest yellow I use in this part) I also made it so that their font is cursive. I also changed the background color to light yellow to make it more astetically pleasing.
